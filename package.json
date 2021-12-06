@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Linacolor/goit-react-hw-02-feedback/issues"
   },
-  "homepage": "https://github.com/Linacolor/goit-react-hw-02-feedback#readme"
+  "homepage": "https://github.com/Linacolor/goit-react-hw-02-feedback#readme",
+  "dependencies": {
+    "shortid": "^2.2.16"
+  }
 }
